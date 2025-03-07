@@ -1,0 +1,3 @@
+{
+  "pathsToAnalyze": ["**/contracts/src/v0.8/**"]
+}
